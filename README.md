@@ -1,4 +1,6 @@
 # this is a Clojure-friendly emacs config
+This is a fork from: https://github.com/flyingmachine/emacs-for-clojure
+Customisations coming soon...
 
 If you're new to emacs, check out
 [this introductory tutorial](http://www.braveclojure.com/basic-emacs/)!
